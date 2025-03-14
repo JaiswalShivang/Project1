@@ -15,8 +15,8 @@ A simple memory-based game built using **HTML, CSS, and JavaScript**. Test your 
 - **JavaScript**: Game logic and interactions
 
 ## Features
-✅ Interactive UI with smooth transitions  
-✅ Memory-based gameplay with increasing difficulty  
-✅ Score tracking system  
-✅ **Help** button to reveal the current sequence for a few seconds  
-✅ Responsive design for different screen sizes  
+- Interactive UI with smooth transitions  
+- Memory-based gameplay with increasing difficulty  
+- Score tracking system  
+- **Help** button to reveal the current sequence for a few seconds  
+- Responsive design for different screen sizes  
